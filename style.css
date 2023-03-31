@@ -1,0 +1,175 @@
+.btn-outline-success{
+    color: white;
+    border-radius: 20px;
+    border-color: orange;
+    background-color: orange;
+}
+
+.form-1 {
+    border-radius: 100px;
+}
+
+input:focus{
+    outline: none!important;
+    border-color: orange!important;
+    box-shadow: none!important;
+}
+
+.number {
+    color: #111111;
+    font-size: 14px;
+    margin-right: 20px;
+}
+
+.number:hover {
+    color: orange;
+}
+
+.orange {
+    color: orange;
+}
+
+.nav-link {
+    margin-left: 0;
+    margin-top: 10px;
+    font-size: 15px;
+}
+
+.nav-link:hover {
+    color: orange;
+}
+
+.navbar-brand {
+  color: black!important;
+  font-size: 33px;
+  background-size: 140px;
+  background-repeat: no-repeat;
+  background-image: url("https://images.pizza33.ua/products/menu/pe6RV4SEkqlbqqUb0R1r2mFrfGCFFkNT.jpg");
+}
+
+.my-img {
+    width: 140px;
+    margin-left: 28px;
+}
+
+.fa-box {
+    color: black;
+}
+
+.button-2 {
+    margin-left: 85px;
+    border-radius: 50px;
+    background-color: orange;
+    border-color: orange;
+}
+
+.text-name {
+    text-align: center;
+    margin-bottom: 5px;
+    color: black;
+}
+
+.text-name:hover {
+    color: orange;
+}
+
+
+.a-link {
+    text-decoration: none;
+    color: orange;
+}
+
+.a-link:hover {
+    color: orange;
+}
+
+.main-1 {
+    padding-top: 20px;
+    color: lightslategrey;
+}
+
+.mega-cheese {
+   width: 540px;
+}
+
+.description-1 {
+    margin-top: 140px;
+}
+
+.button-1 {
+    font-size: 23px;
+    margin-top: 15px;
+    margin-left: 100px;
+    border-radius: 20px;
+    border-color: limegreen;
+    background-color: limegreen;
+    color: white;
+}
+
+.icon-1 {
+    color: red;
+    background-color: white;
+    margin-left: 10px;
+    border-color: Crimson;
+    font-size: 26px;
+    border-radius: 30px;
+}
+
+.icon-2 {
+    color: DeepPink;
+    margin-left: 10px;
+    background-color: white;
+    border-color: HotPink;
+    font-size: 26px;
+    width: 45px;
+    border-radius: 30px;
+}
+
+.icon-3 {
+    color: blue;
+    margin-left: 10px;
+    background-color: white;
+    border-color: RoyalBlue;
+    font-size: 26px;
+    width: 45px;
+    border-radius: 30px;
+}
+
+.icon-4 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left: 28px;
+    background-color: white;
+    max-width: 121px;
+    height: 30px;
+}
+
+.icon-5 {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-left: 30px;
+    background-color: white;
+    max-width: 121px;
+    height: 30px;
+}
+
+.author1 {
+    margin-left: 30px;
+    margin-top: 60px;
+    color: silver;
+}
+
+.maria1 {
+    padding-left: 4px;
+    text-decoration: none;
+    color: orange;
+    font-family: Trattatello, fantasy;
+}
+
+.maria1:hover {
+    color: orange;
+}
+
+.retreat-1 {
+    margin-top: 50px;
+}

@@ -1,0 +1,83 @@
+.my-header {
+    padding-left: 5px;
+    font-family: monospace;
+}
+
+.the_main {
+    background-color: black;
+    text-decoration: none;
+    font-family: monospace;
+    color: white;
+    margin-left: 1px;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 40px;
+    border-color: black;
+}
+
+.orange-body {
+    background-color: silver;
+}
+
+.the_main:hover {
+    color: white;
+}
+
+.time {
+    color: white;
+}
+.card-1 {
+    text-align: center;
+    background-image: url("https://img.freepik.com/free-vector/orange-triangle-background-3d-design_23-2148397934.jpg");
+}
+
+.card-1:hover {
+    transform: scale(1.1);
+}
+
+.my-text {
+    text-align: center;
+    border-radius: 10px;
+}
+
+.my-text:hover {
+   border-color: white;
+   box-shadow: gainsboro  0 8px 24px;
+}
+
+.my-button {
+    background-color: orange;
+    border-color: orange;
+    margin-top: 5px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+}
+
+.orange-text {
+    color: black;
+}
+
+.orange-text:hover {
+    color: orange;
+}
+
+.size-1 {
+    padding-bottom: 33px;
+}
+
+.size-2 {
+    padding-bottom: 57px;
+}
+
+.size-3 {
+    padding-bottom: 9px;
+}
+
+.size-4 {
+    padding-bottom: 25px;
+}
+
+.retreat-1 {
+ margin-top: 30px;
+}
